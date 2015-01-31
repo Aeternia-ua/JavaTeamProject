@@ -1,0 +1,12 @@
+﻿[
+{"id":"1","firstName":"Amit","lastName":"Shukla","email":"Amit.Shukla@gmail.com","phone":"+38056653457","hireDate":"2015-01-01","jobId":"Director","salary":"3000.0"},
+{"id":"2","firstName":"Lokesh","lastName":"Gupta","email":"Lokesh.Gupta@gmail.com","phone":"+38056653455","hireDate":"2015-03-01","jobId":"Programmer","salary":"1500.0"},
+{"id":"3","firstName":"John","lastName":"Cards","email":"John.Adwards@gmail.com","phone":"+38056653457","hireDate":"2015-02-01","jobId":"Programmer","salary":"1500.0"},
+{"id":"4","firstName":"Amit","lastName":"Shukla","email":"Amit.Shukla@gmail.com","phone":"+38056653457","hireDate":"2015-01-01","jobId":"Director","salary":"3000.0"},
+{"id":"5","firstName":"Lokesh","lastName":"Gupta","email":"Lokesh.Gupta@gmail.com","phone":"+38056653455","hireDate":"2015-03-01","jobId":"Programmer","salary":"1500.0"},
+{"id":"6","firstName":"John","lastName":"Bards","email":"John.Adwards@gmail.com","phone":"+38056653457","hireDate":"2015-02-01","jobId":"Programmer","salary":"1500.0"},
+{"id":"7","firstName":"Amit","lastName":"Shukla","email":"Amit.Shukla@gmail.com","phone":"+38056653457","hireDate":"2015-01-01","jobId":"Director","salary":"3000.0"},
+{"id":"8","firstName":"Lokesh","lastName":"Gupta","email":"Lokesh.Gupta@gmail.com","phone":"+38056653455","hireDate":"2015-03-01","jobId":"Programmer","salary":"1500.0"},
+{"id":"9","firstName":"John","lastName":"Adwards","email":"John.Adwards@gmail.com","phone":"+38056653457","hireDate":"2015-02-01","jobId":"Programmer","salary":"1500.0"}
+
+]
